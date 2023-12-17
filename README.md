@@ -5,9 +5,6 @@
    - ⚡ In my free time, i fly and build FPV drones, build new network automations and operate a small datacenter
    - 🌱 I’m currently learning Java / C# / Python3 / Docker / Kubernetes
    - 💞️ I’m looking to collaborate on ...
-   - 📫 You can reach me under github@sven-schmid.ch or over Linkedin: https://www.linkedin.com/in/sven-s-179baa193
-
-
 <!--
 **svsc99/svsc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
